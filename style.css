@@ -222,11 +222,3 @@ ul li {
     top: 2px;
     cursor: pointer;
 }
-
-#web_logo {
-    width: 50px;
-    height: 40px;
-    position: relative;
-    left: -55%;
-    top: 4px;
-}
